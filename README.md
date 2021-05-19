@@ -1,7 +1,7 @@
 # SignalR chat
 Simple .NET web application with SignalR implemeted for basic chat functionality
 
-You can chat with connected users by navigating to https://localhost:44364/, while the application is running, of course. 
+You can chat with connected users by navigating to https://localhost:44364/ while the application is running. 
 
 There you can enter your name and a message, and send it to everyone currently connected to this url. 
 
